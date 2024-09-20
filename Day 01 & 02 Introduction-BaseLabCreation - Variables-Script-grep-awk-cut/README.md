@@ -1,6 +1,13 @@
-# Variables-Script-grep-awk-cut
+#  Introduction-BaseLabCreation - Variables-Script-grep-awk-cut
 
 ![1](https://github.com/user-attachments/assets/bb18e257-ad41-4d32-acfe-4963bb23cb8f)
+
+# DevSecOps Scripting Course - Day 01 & 02
+
+## Course Overview
+This course is designed to help you get started with DevSecOps by covering shell scripting, cloud infrastructure, and essential security tools. You'll work with real-world tasks, using various tools and services to build a secure and functional DevSecOps environment.
+
+---
 
 ## Prerequisites
 ### Cloud Platforms:
@@ -161,5 +168,3 @@ This will print each command before executing it, helping you to debug.
 
 ## Conclusion
 This README covers Day 01 of DevSecOps, focusing on basic shell scripting, AWS tools, and security best practices. You should now be familiar with setting up a basic lab, working with shell scripts, and using AWS CLI for DevSecOps tasks.
-
---- 
