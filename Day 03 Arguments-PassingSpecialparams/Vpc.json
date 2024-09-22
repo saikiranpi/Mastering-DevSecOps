@@ -1,0 +1,70 @@
+{
+    "Vpcs": [
+        {
+            "CidrBlock": "172.31.0.0/16",
+            "DhcpOptionsId": "dopt-02a30a106206d91c0",
+            "State": "available",
+            "VpcId": "vpc-0cb4a2cc03f4f5950",
+            "OwnerId": "211125710812",
+            "InstanceTenancy": "default",
+            "CidrBlockAssociationSet": [
+                {
+                    "AssociationId": "vpc-cidr-assoc-0668e8c166508a2db",
+                    "CidrBlock": "172.31.0.0/16",
+                    "CidrBlockState": {
+                        "State": "associated"
+                    }
+                }
+            ],
+            "IsDefault": true
+        },
+        {
+            "CidrBlock": "10.0.0.0/16",
+            "DhcpOptionsId": "dopt-02a30a106206d91c0",
+            "State": "available",
+            "VpcId": "vpc-01aadf6a85bf7bcc5",
+            "OwnerId": "211125710812",
+            "InstanceTenancy": "default",
+            "CidrBlockAssociationSet": [
+                {
+                    "AssociationId": "vpc-cidr-assoc-0a1befae9cc04ce13",
+                    "CidrBlock": "10.0.0.0/16",
+                    "CidrBlockState": {
+                        "State": "associated"
+                    }
+                }
+            ],
+            "IsDefault": false,
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "Docker-Swarm-vpc"
+                }
+            ]
+        },
+        {
+            "CidrBlock": "10.0.0.0/16",
+            "DhcpOptionsId": "dopt-02a30a106206d91c0",
+            "State": "available",
+            "VpcId": "vpc-036e5c5d11bdf83de",
+            "OwnerId": "211125710812",
+            "InstanceTenancy": "default",
+            "CidrBlockAssociationSet": [
+                {
+                    "AssociationId": "vpc-cidr-assoc-0164242222a86cffd",
+                    "CidrBlock": "10.0.0.0/16",
+                    "CidrBlockState": {
+                        "State": "associated"
+                    }
+                }
+            ],
+            "IsDefault": false,
+            "Tags": [
+                {
+                    "Key": "Name",
+                    "Value": "SecOps-VPC-vpc"
+                }
+            ]
+        }
+    ]
+}
