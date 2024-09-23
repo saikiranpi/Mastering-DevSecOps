@@ -2,7 +2,8 @@
 
 # Practice Consistently - Waste your money on Service Bills not on the one who steals!! Lets get Dirty Again!!!
 
-Shell Scrpting: 
+
+#Shell Scrpting: 
 
 Variables-Script-grep-awk-cut
 
@@ -18,7 +19,8 @@ Functions
 
 Scripts 
 
-GIT
+
+#GIT
 
 Introduction to Git version control application
 
@@ -30,7 +32,7 @@ GitHub Branches, Merging Webhooks
 
 Understanding stash, diff, rebase, fetch, pull, push.
 
-Terraform and Packer 
+#Terraform and Packer 
 
 Understanding Providers, Variables; States, Locals.
 
@@ -50,9 +52,11 @@ Create AWS AMI using Packer.
 
 Integration of GitHub, Packer  Terraform with Jenkins.
 
+
 #Docker : https://github.com/saikiranpi/Mastering-Docker
 
-Ansible 
+
+#Ansible 
 
 Differences between Ansible vs Puppet Vs Chef.
 
@@ -70,7 +74,7 @@ Using Ansible Variables  Templates.
 
 Leveraging Ansible Galaxy for Roles.
 
-Jenkins
+#Jenkins
 
 Install  Configure Jenkins
 
@@ -94,7 +98,8 @@ Integrating Jenkins with AWS, GitHub  Docker.
 
 Configure Jenkins Notifications For Slack.
 
-Security Tools
+
+#Security Tools
 
 Sonarqube Quality
 
@@ -108,7 +113,8 @@ Ansible Vault for Secret Mgmg
 
 Build  and Monitoring
 
-Installing maven.
+
+#Installing maven.
 
 Maven lifecycle & Performing builds.
 
