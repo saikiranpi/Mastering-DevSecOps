@@ -111,10 +111,10 @@ Secret Scanning in Terraform & Ansihle Code
 
 Ansible Vault for Secret Mgmg
 
-Build  and Monitoring
 
+# Build  and Monitoring
 
-# Installing maven.
+Installing maven.
 
 Maven lifecycle & Performing builds.
 
@@ -132,6 +132,8 @@ Understanding Alert Manager.
 
 
 # If TIme allows Il cover AzuredevOps too
+
+# Azure DevOps
 
 Introduction to Azure DevOps and Agile terminologies.
 
