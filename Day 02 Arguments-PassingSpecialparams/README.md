@@ -1,9 +1,7 @@
 # Day 02 Arguments-PassingSpecialparams
 
-<img width="600" alt="02" src="https://github.com/user-attachments/assets/ed9f49be-70fa-40c8-a856-f6d597686a7b">
+![02](https://github.com/user-attachments/assets/13165920-47f8-4843-b6d4-00af9ca7ac5f)
 
-
-# Arguments-PassingSpecialparams
 
 Welcome to the **Arguments-PassingSpecialparams** repository! This project focuses on demonstrating the usage of parameter passing, special shell parameters, and output redirection in Bash scripting, specifically in the context of AWS VPC management.
 
