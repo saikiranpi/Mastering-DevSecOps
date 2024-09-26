@@ -1,6 +1,6 @@
 # Day 04 UserAutomation
 
-
+![a-3d-render-of-a-dark-themed-cybersecurity-confere-TU2eVZcIRda9RcDkaObkyg-yt2DCIPgQIaI9w7_DYZnYw](https://github.com/user-attachments/assets/75314cc4-86a5-41bb-b47b-acb0d3765555)
 
 This script automates the process of creating new users on a Linux system. It checks if a user already exists, creates a new user if they don't, generates a random password with a special character, and forces the user to reset their password on the first login.
 
