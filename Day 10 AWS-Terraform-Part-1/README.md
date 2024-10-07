@@ -1,4 +1,4 @@
-![Uploading a-3d-render-of-a-youtube-thumbnail-with-the-text-d-6vFmUIlxRQ2-ERpv-XkPmg-98wY6FuxTTeyHEHWaD8X5w.jpeg…]()
+![a-3d-render-of-a-youtube-thumbnail-with-the-text-d-6vFmUIlxRQ2-ERpv-XkPmg-98wY6FuxTTeyHEHWaD8X5w](https://github.com/user-attachments/assets/5ff94fd5-09ee-4fc9-87df-e16f87bab83c)
 
 
 # Terraform Day 01 Provider Block - Resource Block - S3 backend - Data Source - Remote Data Source Backend 
