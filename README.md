@@ -32,7 +32,9 @@ GitHub Branches, Merging Webhooks
 
 Understanding stash, diff, rebase, fetch, pull, push.
 
+
 #Terraform and Packer 
+
 
 Understanding Providers, Variables; States, Locals.
 
