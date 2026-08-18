@@ -108,6 +108,7 @@ To securely store and retrieve sensitive information like passwords, you can use
       password             = data.aws_secretsmanager_secret_version.password.secret_string
       publicly_accessible  = true
       db_subnet_group_name = aws_db_subnet_group.default.id
+      skip_final_snapshot   = true
     }
     ```
 
